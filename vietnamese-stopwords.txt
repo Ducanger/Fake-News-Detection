@@ -1,3 +1,4 @@
+# Source: https://github.com/stopwords/vietnamese-stopwords
 a_lô
 a_ha
 ai
